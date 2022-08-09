@@ -1,4 +1,3 @@
-<code>👷 Speciality: Database administrator (DBA) / Software engineer / Backend</code><br>
-<code>🧑‍💻 Languages: [TSQL](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>), pgSQL, Python</code>  
-<code>💬 telegram: [@sqlmaster](https://telegram.me/sqlmaster)</code>  
-<code>📫 [globalalek@gmail.com](mailto:globalalek@gmail.com)</code>  
+<code>👷 Speciality: Database administrator (DBA) / Software engineer / Backend 🧑‍💻 Languages: ![https://img.shields.io/badge/1-TSQL-green](https://img.shields.io/badge/1-TSQL-blue) ![pgSQL](https://img.shields.io/badge/2-pgSQL-green) ![Python](https://img.shields.io/badge/3-Python-yellow)</code>  
+  
+<code>💬 telegram: [@sqlmaster](https://telegram.me/sqlmaster) 📫 [globalalek@gmail.com](mailto:globalalek@gmail.com)</code>  
